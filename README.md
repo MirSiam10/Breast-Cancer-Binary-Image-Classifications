@@ -9,7 +9,6 @@ The project explores a semi-supervised/weakly supervised-style classification se
 * **Yes** — Breast cancer
 
 > **Author:** Mir Siam
-> **Student ID:** 213-15-4438
 > **Program:** CSE
 
 ---
